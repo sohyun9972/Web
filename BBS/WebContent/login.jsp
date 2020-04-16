@@ -56,7 +56,7 @@
 				</form>
 			</div>
 		</div>
-		<div class="col-lg-4"></div>
+		<div class="col-lg-4"></div><!-- 나는 개똥벌레 친구가 없네 -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="js/bootstrap.js"></script>
 </body>
